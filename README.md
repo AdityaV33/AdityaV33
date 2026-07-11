@@ -1,8 +1,9 @@
-  xx`# Hi, I'm Aditya 👋
+# Hi, I'm Aditya 👋
 
 ### Backend Developer | GenAI
 
 I'm a Computer Science student specializing in AI & ML, focused on building backend systems and AI-powered applications.
+
 
 ### Tech I work with
 
