@@ -1,12 +1,8 @@
-# Hi, I'm Aditya 👋
+  xx`# Hi, I'm Aditya 👋
 
 ### Backend Developer | GenAI
 
 I'm a Computer Science student specializing in AI & ML, focused on building backend systems and AI-powered applications.
-
-### Currently working on
-
-**ForgeAI** — an AI-powered application generation platform that plans, generates, builds, detects errors, and automatically fixes generated applications.
 
 ### Tech I work with
 
