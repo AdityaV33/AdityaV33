@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Aditya 👋
 
-<!--
-**AdityaV33/AdityaV33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Developer | GenAI
 
-Here are some ideas to get you started:
+I'm a Computer Science student specializing in AI & ML, focused on building backend systems and AI-powered applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently working on
+
+**ForgeAI** — an AI-powered application generation platform that plans, generates, builds, detects errors, and automatically fixes generated applications.
+
+### Tech I work with
+
+`Java` `JavaScript` `TypeScript` `Python`
+
+`Node.js` `Express.js` `FastAPI` `MongoDB`
+
+`LangChain` `RAG` `FAISS` `Vector Databases`
+
+`React` `Tailwind CSS`
+
+`Git` `Docker` `Postman`
+
+### Reach me
+
+**Email:** [vermaaditya457@gmail.com](mailto:vermaaditya457@gmail.com)
+**GitHub:** @AdityaV33
